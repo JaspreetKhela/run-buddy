@@ -1,0 +1,11 @@
+/* Apply Styles to the <body> */
+body{
+    color: #39a6b2;
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+/* Apply Styles to the <body> */
+header{
+    padding: 20px 35px;
+    background-color: #39a6b2;
+}
